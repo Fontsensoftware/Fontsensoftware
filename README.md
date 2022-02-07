@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fontsensoftware
-- 👀 I’m interested in web development, web applications and custom software development
+- 👀 We are a software development company offering services in web development, web applications and custom software.
 - 📫 Reach me at hello@fontsen.com
 
 <!---
